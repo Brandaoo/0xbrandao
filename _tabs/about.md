@@ -11,7 +11,7 @@ Welcome to my blog! 👋
 I’m [yourname], a passionate cybersecurity enthusiast diving into the world of **Active Directory exploitation** and **penetration testing**. My interests include:  
 
 - **Preferred Shell**: Zsh ⚡  
-- **Focus Areas**: Cybersecurity, scripting, and ethical hacking.  
+- **Focus Areas**: Cybersecurity, Pentest, and RedTeam.  
 
 ## Purpose of This Page  
 
