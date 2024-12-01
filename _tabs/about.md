@@ -1,7 +1,12 @@
 ---
-title: About Me
-layout: page
-permalink: /about/
+navbar:
+  pages:
+    - title: "Home"
+      url: /
+      icon: fas fa-home
+    - title: "About"
+      url: /about/
+      icon: fas fa-user
 ---
 
 # About Me
