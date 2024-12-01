@@ -26,6 +26,6 @@ This section is dedicated to introducing myself and sharing my journey. You'll f
 Let’s connect! Reach out to collaborate, share ideas, or just say hello:  
 
 - **GitHub**: [github.com/brandaoo](https://github.com/yourusername)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gabrielbrandaodacruzruna/)  
+- **LinkedIn**: [linkedin.com/in/gabrielbrandaodacruzruna](https://www.linkedin.com/in/gabrielbrandaodacruzruna/)  
 
 Stay curious and keep learning! 🚀
